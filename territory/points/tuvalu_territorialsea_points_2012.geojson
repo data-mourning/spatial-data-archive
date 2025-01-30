@@ -1,0 +1,5000 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00001",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05452222222223,
+          -5.637927777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00002",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05400555555556,
+          -5.637941666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00003",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05380000000002,
+          -5.63828611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00004",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05420555555557,
+          -5.640977777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00005",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.0544138888889,
+          -5.641683333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00006",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.0553416666667,
+          -5.644272222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00007",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.0569277777778,
+          -5.6476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00008",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05734722222223,
+          -5.648483333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00009",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05744166666668,
+          -5.648672222222221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00010",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05777500000002,
+          -5.649305555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00011",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05835000000002,
+          -5.650116666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00012",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05852777777778,
+          -5.650358333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00013",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.0592611111111,
+          -5.651041666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00014",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05979444444446,
+          -5.651486111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00015",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13353333333333,
+          -5.704263888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00016",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13585555555554,
+          -5.706688888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00017",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13635833333333,
+          -5.707161111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00018",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13707777777776,
+          -5.707730555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00019",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13766388888888,
+          -5.708080555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00020",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13919166666665,
+          -5.708966666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00021",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1394861111111,
+          -5.709008333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00022",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14057499999998,
+          -5.709063888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00023",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14145555555555,
+          -5.7087055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00024",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14201111111112,
+          -5.708372222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00025",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1422,
+          -5.7082444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00026",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14264166666666,
+          -5.70795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00027",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14313333333334,
+          -5.707288888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00028",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14418333333333,
+          -5.705502777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00029",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14438611111112,
+          -5.704619444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00030",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1445,
+          -5.703777777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00031",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1446388888889,
+          -5.702641666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00032",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14454444444445,
+          -5.702252777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00033",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14436666666666,
+          -5.701716666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00034",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.14428333333333,
+          -5.701516666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00035",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13103055555555,
+          -5.672177777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00036",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.13012222222224,
+          -5.669955555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00037",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1299138888889,
+          -5.66945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00038",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.12854722222224,
+          -5.666272222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00039",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.12834722222223,
+          -5.665819444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00040",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.127125,
+          -5.663586111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00041",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.12632222222223,
+          -5.662216666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00042",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1259638888889,
+          -5.661680555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00043",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.12527500000002,
+          -5.660891666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00044",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.12358055555558,
+          -5.6591000000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00045",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.11998055555557,
+          -5.655716666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00046",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.11975,
+          -5.655505555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00047",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.11881944444445,
+          -5.654905555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00048",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.11773055555557,
+          -5.6542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00049",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1168111111111,
+          -5.653691666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00050",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.11433888888888,
+          -5.6526250000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00051",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.11388888888888,
+          -5.652436111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00052",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.10272777777777,
+          -5.648852777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00053",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1014722222222,
+          -5.648522222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00054",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.10053888888888,
+          -5.648280555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00055",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.08074722222221,
+          -5.643936111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00056",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.07291388888888,
+          -5.641683333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00057",
+        "outer_limit": "TS",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.07229444444445,
+          -5.641491666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00058",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.06879722222223,
+          -5.640461111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00059",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.06820277777777,
+          -5.640319444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00060",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.06729166666668,
+          -5.640144444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00061",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05710000000002,
+          -5.638269444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00062",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05561944444446,
+          -5.638008333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00063",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.05499166666667,
+          -5.637958333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00064",
+        "outer_limit": "TS",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32202777777778,
+          -6.26995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00065",
+        "outer_limit": "TS",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32142222222222,
+          -6.270197222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00066",
+        "outer_limit": "TS",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32076666666666,
+          -6.270788888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00067",
+        "outer_limit": "TS",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31990277777777,
+          -6.271652777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00068",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3188638888889,
+          -6.272911111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00069",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31777222222223,
+          -6.274927777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00070",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31705833333334,
+          -6.276377777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00071",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31539722222223,
+          -6.279944444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00072",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3138388888889,
+          -6.283388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00073",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31320833333334,
+          -6.284941666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00074",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31300833333336,
+          -6.285475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00075",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31265000000002,
+          -6.286561111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00076",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3124138888889,
+          -6.2874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00077",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3122138888889,
+          -6.288941666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00078",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31220000000002,
+          -6.289858333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00079",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31248333333335,
+          -6.291055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00080",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3137,
+          -6.293897222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00081",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3143527777778,
+          -6.295158333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00082",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31473611111113,
+          -6.295788888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00083",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31706111111112,
+          -6.299544444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00084",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31838055555556,
+          -6.301597222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00085",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3188722222222,
+          -6.3022527777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00086",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.31942777777778,
+          -6.302808333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00087",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32022777777777,
+          -6.303191666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00088",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32101944444443,
+          -6.303216666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00089",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32177222222222,
+          -6.303058333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00090",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3224138888889,
+          -6.3025166666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00091",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32329166666668,
+          -6.301147222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00092",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32450555555556,
+          -6.299011111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00093",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32681944444445,
+          -6.294555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00094",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32714166666668,
+          -6.293630555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00095",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3273638888889,
+          -6.292888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00096",
+        "outer_limit": "TS",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32739166666667,
+          -6.289347222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00097",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.327525,
+          -6.283061111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00098",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32747777777777,
+          -6.281702777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00099",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32730833333332,
+          -6.280738888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00100",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32563888888888,
+          -6.273425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00101",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32552777777778,
+          -6.273102777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00102",
+        "outer_limit": "TS,CZ",
+        "section": "NANUMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.32229722222223,
+          -6.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00103",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33656944444445,
+          -6.1015138888888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00104",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33620833333333,
+          -6.1015138888888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00105",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3353111111111,
+          -6.101586111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00106",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3341861111111,
+          -6.101713888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00107",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33399722222222,
+          -6.101766666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00108",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33351666666667,
+          -6.101927777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00109",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33335277777778,
+          -6.102002777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00110",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33163055555556,
+          -6.102888888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00111",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33152777777778,
+          -6.1029527777777774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00112",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3309888888889,
+          -6.10345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00113",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33075277777778,
+          -6.103741666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00114",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33071666666666,
+          -6.1037888888888885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00115",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33051388888887,
+          -6.104069444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00116",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3302527777778,
+          -6.104497222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00117",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.32998333333333,
+          -6.105036111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00118",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.32984166666665,
+          -6.105458333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00119",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.329825,
+          -6.105625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00120",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3298,
+          -6.106025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00121",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.32979722222223,
+          -6.106183333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00122",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3298027777778,
+          -6.106361111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00123",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.32990555555554,
+          -6.106652777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00124",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3301,
+          -6.107077777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00125",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33025,
+          -6.107394444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00126",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33043055555555,
+          -6.107733333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00127",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3305472222222,
+          -6.107911111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00128",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33071666666666,
+          -6.1081611111111105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00129",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3313,
+          -6.108938888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00130",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33215555555554,
+          -6.109986111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00131",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33320277777779,
+          -6.111147222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00132",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33525833333334,
+          -6.1129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00133",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33629722222224,
+          -6.1137749999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00134",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.337475,
+          -6.114597222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00135",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33765277777778,
+          -6.114697222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00136",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3385388888889,
+          -6.115116666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00137",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33918333333335,
+          -6.115336111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00138",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34003333333334,
+          -6.115430555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00139",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34023611111112,
+          -6.115427777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00140",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34071111111112,
+          -6.115374999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00141",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3464888888889,
+          -6.114691666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00142",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34671944444446,
+          -6.11466111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00143",
+        "outer_limit": "TS",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34737777777778,
+          -6.1145555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00144",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35181944444443,
+          -6.113872222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00145",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35209166666667,
+          -6.113808333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00146",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35296944444443,
+          -6.113361111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00147",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35318333333333,
+          -6.113205555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00148",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35325277777778,
+          -6.113152777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00149",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3533138888889,
+          -6.113091666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00150",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.353525,
+          -6.112861111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00151",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35360555555556,
+          -6.112716666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00152",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35379166666667,
+          -6.1123611111111105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00153",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35395833333334,
+          -6.1119861111111105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00154",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35403333333332,
+          -6.1118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00155",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35416388888888,
+          -6.111238888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00156",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35425833333332,
+          -6.1106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00157",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35426388888888,
+          -6.110291666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00158",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35391388888888,
+          -6.107188888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00159",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35389444444445,
+          -6.107105555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00160",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35372222222222,
+          -6.106516666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00161",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3535388888889,
+          -6.106091666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00162",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3533861111111,
+          -6.105738888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00163",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35326666666666,
+          -6.105522222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00164",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35310833333332,
+          -6.105236111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00165",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3529361111111,
+          -6.104952777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00166",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35259722222222,
+          -6.104433333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00167",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35252499999999,
+          -6.104349999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00168",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35219722222223,
+          -6.103994444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00169",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35200833333332,
+          -6.1037944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00170",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35180833333334,
+          -6.103622222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00171",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.351675,
+          -6.103533333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00172",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35128055555555,
+          -6.103308333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00173",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35113333333334,
+          -6.1032416666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00174",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3508361111111,
+          -6.103133333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00175",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.35048333333333,
+          -6.103002777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00176",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34979722222224,
+          -6.102761111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00177",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34934166666667,
+          -6.102647222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00178",
+        "outer_limit": "TS",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.34884444444447,
+          -6.102613888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00179",
+        "outer_limit": "TS",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.33811666666668,
+          -6.101644444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00180",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3373388888889,
+          -6.101555555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00181",
+        "outer_limit": "TS,CZ",
+        "section": "NIUTAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3368888888889,
+          -6.101533333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00182",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14329166666667,
+          -7.185236111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00183",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1422,
+          -7.185297222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00184",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14099166666665,
+          -7.1854861111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00185",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14000277777777,
+          -7.1860388888888895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00186",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1392,
+          -7.1868083333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00187",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13848888888887,
+          -7.1879583333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00188",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13813888888888,
+          -7.189633333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00189",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13789166666666,
+          -7.191377777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00190",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13780555555556,
+          -7.192772222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00191",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13787777777776,
+          -7.194025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00192",
+        "outer_limit": "TS",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13814166666666,
+          -7.196088888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00193",
+        "outer_limit": "TS",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13856388888888,
+          -7.199319444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00194",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13963888888887,
+          -7.240061111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00195",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13975555555555,
+          -7.241877777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00196",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13994444444444,
+          -7.243536111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00197",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1403388888889,
+          -7.244961111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00198",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14073333333332,
+          -7.246125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00199",
+        "outer_limit": "TS",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14087777777777,
+          -7.246416666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00200",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1418972222222,
+          -7.248466666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00201",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14290277777778,
+          -7.249788888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00202",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14396666666667,
+          -7.251127777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00203",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14503055555554,
+          -7.252027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00204",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14638333333332,
+          -7.2528138888888884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00205",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14769444444443,
+          -7.2534527777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00206",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14891944444443,
+          -7.253991666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00207",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15146666666666,
+          -7.254747222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00208",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15611388888888,
+          -7.255997222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00209",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15749722222222,
+          -7.256258333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00210",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15907222222222,
+          -7.256466666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00211",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16131388888888,
+          -7.256136111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00212",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16271111111112,
+          -7.255747222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00213",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16375833333333,
+          -7.255208333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00214",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1644861111111,
+          -7.254552777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00215",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1653611111111,
+          -7.253213888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00216",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16595833333335,
+          -7.251919444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00217",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16645277777778,
+          -7.250408333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00218",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1669861111111,
+          -7.2486194444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00219",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1672972222222,
+          -7.2474694444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00220",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16768888888888,
+          -7.2449666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00221",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16787777777776,
+          -7.242858333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00222",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1678472222222,
+          -7.241433333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00223",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16761388888887,
+          -7.236980555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00224",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16578055555556,
+          -7.219488888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00225",
+        "outer_limit": "TS",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16374722222224,
+          -7.2052000000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00226",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16358333333335,
+          -7.203622222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00227",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16301666666666,
+          -7.201388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00228",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16252222222224,
+          -7.199891666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00229",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16126666666668,
+          -7.197594444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00230",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.160525,
+          -7.1963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00231",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15765555555555,
+          -7.192825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00232",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15692777777778,
+          -7.192038888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00233",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15585000000002,
+          -7.191225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00234",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15169722222223,
+          -7.188086111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00235",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15026944444446,
+          -7.187286111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00236",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14901666666665,
+          -7.186647222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00237",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14777777777778,
+          -7.186152777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00238",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14656944444442,
+          -7.1857444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00239",
+        "outer_limit": "TS,CZ",
+        "section": "NUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1449972222222,
+          -7.185383333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00182",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14329166666667,
+          -7.185236111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00183",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1422,
+          -7.185297222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00184",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14099166666665,
+          -7.1854861111111115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00185",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14000277777777,
+          -7.1860388888888895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00186",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1392,
+          -7.1868083333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00187",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13848888888887,
+          -7.1879583333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00188",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13813888888888,
+          -7.189633333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00189",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13789166666666,
+          -7.191377777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00190",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13780555555556,
+          -7.192772222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00191",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13787777777776,
+          -7.194025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00192",
+        "outer_limit": "TS",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13814166666666,
+          -7.196088888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00193",
+        "outer_limit": "TS",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13856388888888,
+          -7.199319444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00194",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13963888888887,
+          -7.240061111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00195",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13975555555555,
+          -7.241877777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00196",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13994444444444,
+          -7.243536111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00197",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1403388888889,
+          -7.244961111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00198",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14073333333332,
+          -7.246125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00199",
+        "outer_limit": "TS",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14087777777777,
+          -7.246416666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00200",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1418972222222,
+          -7.248466666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00201",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14290277777778,
+          -7.249788888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00202",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14396666666667,
+          -7.251127777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00203",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14503055555554,
+          -7.252027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00204",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14638333333332,
+          -7.2528138888888884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00205",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14769444444443,
+          -7.2534527777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00206",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14891944444443,
+          -7.253991666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00207",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15146666666666,
+          -7.254747222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00208",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15611388888888,
+          -7.255997222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00209",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15749722222222,
+          -7.256258333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00210",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15907222222222,
+          -7.256466666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00211",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16131388888888,
+          -7.256136111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00212",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16271111111112,
+          -7.255747222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00213",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16375833333333,
+          -7.255208333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00214",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1644861111111,
+          -7.254552777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00215",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1653611111111,
+          -7.253213888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00216",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16595833333335,
+          -7.251919444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00217",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16645277777778,
+          -7.250408333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00218",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1669861111111,
+          -7.2486194444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00219",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1672972222222,
+          -7.2474694444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00220",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16768888888888,
+          -7.2449666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00221",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16787777777776,
+          -7.242858333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00222",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1678472222222,
+          -7.241433333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00223",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16761388888887,
+          -7.236980555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00224",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16578055555556,
+          -7.219488888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00225",
+        "outer_limit": "TS",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16374722222224,
+          -7.2052000000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00226",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16358333333335,
+          -7.203622222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00227",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16301666666666,
+          -7.201388888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00228",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16252222222224,
+          -7.199891666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00229",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.16126666666668,
+          -7.197594444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00230",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.160525,
+          -7.1963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00231",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15765555555555,
+          -7.192825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00232",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15692777777778,
+          -7.192038888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00233",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15585000000002,
+          -7.191225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00234",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15169722222223,
+          -7.188086111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00235",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.15026944444446,
+          -7.187286111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00236",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14901666666665,
+          -7.186647222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00237",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14777777777778,
+          -7.186152777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00238",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.14656944444442,
+          -7.1857444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00239",
+        "outer_limit": "TS,CZ",
+        "section": "VAITUPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1449972222222,
+          -7.185383333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00294",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.4740277777778,
+          -10.785783333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00295",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47349166666666,
+          -10.785786111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00296",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47076666666666,
+          -10.786127777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00297",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46949722222223,
+          -10.78636388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00298",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46886666666666,
+          -10.786502777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00299",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.468425,
+          -10.786647222222221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00300",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46803055555554,
+          -10.786852777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00301",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46758333333332,
+          -10.787247222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00302",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46738888888888,
+          -10.787672222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00303",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46735555555557,
+          -10.788491666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00304",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46741111111112,
+          -10.788955555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00305",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46749444444444,
+          -10.789486111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00306",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46760833333335,
+          -10.789716666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00307",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46791944444445,
+          -10.789994444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00308",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.46852777777778,
+          -10.790475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00309",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47199166666667,
+          -10.792666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00310",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47223888888888,
+          -10.792797222222221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00311",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.4727638888889,
+          -10.793013888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00312",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47297777777777,
+          -10.793030555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00313",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47355833333333,
+          -10.792947222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00314",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.4760638888889,
+          -10.792488888888888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00315",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47633055555556,
+          -10.792425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00316",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.476825,
+          -10.792202777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00317",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.477325,
+          -10.79171111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00318",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47819166666667,
+          -10.790688888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00319",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47858888888888,
+          -10.790069444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00320",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47871944444444,
+          -10.789772222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00321",
+        "outer_limit": "TS,CZ,EEZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47917222222222,
+          -10.788566666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00322",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47918611111112,
+          -10.788258333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00323",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47907222222221,
+          -10.787827777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00324",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.4788472222222,
+          -10.787291666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00325",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47848611111112,
+          -10.786755555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00326",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47799166666667,
+          -10.786211111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00327",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47753055555555,
+          -10.785894444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00328",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47693611111112,
+          -10.78586111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TVBP00329",
+        "outer_limit": "TS,CZ",
+        "section": "NIULAKITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.47457500000002,
+          -10.785791666666666
+        ]
+      }
+    }
+  ]
+}

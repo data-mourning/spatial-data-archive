@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.38024722222224,
+          -7.927602777777778
+        ]
+      },
+      "properties": {
+        "id": "TVBP0330",
+        "info": "Further most point on reef north of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.37840833333334,
+          -7.926891666666667
+        ]
+      },
+      "properties": {
+        "id": "TVBP0331",
+        "info": "Further most point on reef north of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.37726111111112,
+          -7.926608333333333
+        ]
+      },
+      "properties": {
+        "id": "TVBP0332",
+        "info": "Further most point on reef north of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.376425,
+          -7.926566666666667
+        ]
+      },
+      "properties": {
+        "id": "TVBP0333",
+        "info": "Further most point on reef north of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.37470555555555,
+          -7.927327777777778
+        ]
+      },
+      "properties": {
+        "id": "TVBP0334",
+        "info": "Further most point on reef north of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3742777777778,
+          -7.9275722222222225
+        ]
+      },
+      "properties": {
+        "id": "TVBP0335",
+        "info": "Further most point on reef north of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3733777777778,
+          -7.928222222222223
+        ]
+      },
+      "properties": {
+        "id": "TVBP0336",
+        "info": "Further most point on reef west of Funaota islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.36706111111113,
+          -7.933308333333334
+        ]
+      },
+      "properties": {
+        "id": "TVBP0337",
+        "info": "Further most point on \"Paefa\" reef west of Funaota islet in Nukufetau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.34930555555556,
+          -7.950544444444445
+        ]
+      },
+      "properties": {
+        "id": "TVBP0338",
+        "info": "Further most point on \"Paefa\" reef north of Teafatule islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.34756666666667,
+          -7.9526055555555555
+        ]
+      },
+      "properties": {
+        "id": "TVBP0339",
+        "info": "Further most point on \"Paefa\" reef north of Teafatule islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.34720000000002,
+          -7.953052777777778
+        ]
+      },
+      "properties": {
+        "id": "TVBP0340",
+        "info": "Further most point on \"Paefa\" reef north of Teafatule islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.34609722222223,
+          -7.954883333333333
+        ]
+      },
+      "properties": {
+        "id": "TVBP0341",
+        "info": "north of Teafatule islet in SCHEDULE 1 - Declaration of Archipelagic Baselines 2012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.30391666666668,
+          -8.030236111111112
+        ]
+      },
+      "properties": {
+        "id": "TVBP0342",
+        "info": "Further most point on reef west of Fale islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.30375555555557,
+          -8.030825
+        ]
+      },
+      "properties": {
+        "id": "TVBP0343",
+        "info": "Further most point on reef west of Fale islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.30404444444446,
+          -8.031375
+        ]
+      },
+      "properties": {
+        "id": "TVBP0344",
+        "info": "Further most point on reef west of Fale islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3047777777778,
+          -8.03218888888889
+        ]
+      },
+      "properties": {
+        "id": "TVBP0345",
+        "info": "Further most point on reef west of Fale islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.30616944444446,
+          -8.033430555555556
+        ]
+      },
+      "properties": {
+        "id": "TVBP0346",
+        "info": "Further most point on reef west of Fale islet in Nukufetau atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.07322222222223,
+          -8.643491666666666
+        ]
+      },
+      "properties": {
+        "id": "TVBP0347",
+        "info": "Further most point on reef close south of Avalau islet in Funafuti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.84264722222224,
+          -9.428522222222222
+        ]
+      },
+      "properties": {
+        "id": "TVBP0348",
+        "info": "Further most point on reef south west of Temotutafa islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.84396111111113,
+          -9.429697222222222
+        ]
+      },
+      "properties": {
+        "id": "TVBP0349",
+        "info": "Further most point on reef south- south west of Temotutafa iset in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.84460555555557,
+          -9.430258333333333
+        ]
+      },
+      "properties": {
+        "id": "TVBP0350",
+        "info": "Further most point on reef south- south west of Temotutafa iset in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8452888888889,
+          -9.430688888888888
+        ]
+      },
+      "properties": {
+        "id": "TVBP0351",
+        "info": "Further most point on reef south- south west of Temotutafa iset in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8460888888889,
+          -9.43118611111111
+        ]
+      },
+      "properties": {
+        "id": "TVBP0352",
+        "info": "Further most point on reef south- south west of Temotutafa iset in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.85717777777776,
+          -9.435566666666666
+        ]
+      },
+      "properties": {
+        "id": "TVBP0353",
+        "info": "of Fenualango islet in Nukulaelae Declaration of Archipelagic Baselines 2012 SCHEDULE 1 -"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.85783333333333,
+          -9.435794444444445
+        ]
+      },
+      "properties": {
+        "id": "TVBP0354",
+        "info": "Further most point on reef south of Fenualango islet in Nukulaelae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.85934166666667,
+          -9.436302777777778
+        ]
+      },
+      "properties": {
+        "id": "TVBP0355",
+        "info": "Further most point on reef south of the Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8595222222222,
+          -9.436327777777779
+        ]
+      },
+      "properties": {
+        "id": "TVBP0356",
+        "info": "Further most point on reef south of the Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86102777777776,
+          -9.436480555555557
+        ]
+      },
+      "properties": {
+        "id": "TVBP0357",
+        "info": "Further most point on reef south of the Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86230277777778,
+          -9.436452777777777
+        ]
+      },
+      "properties": {
+        "id": "TVBP0358",
+        "info": "Further most point on reef south of the Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86324166666665,
+          -9.436325
+        ]
+      },
+      "properties": {
+        "id": "TVBP0359",
+        "info": "Further most point on reef south of the Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86340833333333,
+          -9.436247222222223
+        ]
+      },
+      "properties": {
+        "id": "TVBP0360",
+        "info": "Further most point on reef south of the Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8648861111111,
+          -9.435558333333333
+        ]
+      },
+      "properties": {
+        "id": "TVBP0361",
+        "info": "Further most point on reef east- south east of Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86541666666665,
+          -9.435161111111112
+        ]
+      },
+      "properties": {
+        "id": "TVBP0362",
+        "info": "Further most point on reef east- south east of Motualama islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86606666666665,
+          -9.434522222222222
+        ]
+      },
+      "properties": {
+        "id": "TVBP0363",
+        "info": "Further most point on reef east of Motualama islet in Nukulaelae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86655555555555,
+          -9.433958333333333
+        ]
+      },
+      "properties": {
+        "id": "TVBP0364",
+        "info": "Further most point on reef east of Motualama islet in Nukulaelae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86715833333335,
+          -9.432797222222222
+        ]
+      },
+      "properties": {
+        "id": "TVBP0365",
+        "info": "Further most point on reef south east of Fetuatasi islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8673777777778,
+          -9.432272222222222
+        ]
+      },
+      "properties": {
+        "id": "TVBP0366",
+        "info": "Further most point on reef south east of Fetuatasi islet in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86777222222224,
+          -9.431302777777777
+        ]
+      },
+      "properties": {
+        "id": "TVBP0367",
+        "info": "Further most point on reef south east of Niuoku island in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.868325,
+          -9.42995
+        ]
+      },
+      "properties": {
+        "id": "TVBP0368",
+        "info": "Further most point on reef south east of Niuoku island in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86851666666666,
+          -9.429477777777777
+        ]
+      },
+      "properties": {
+        "id": "TVBP0369",
+        "info": "Further most point on reef south east of Niuoku island in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.868875,
+          -9.428455555555555
+        ]
+      },
+      "properties": {
+        "id": "TVBP0370",
+        "info": "Further most point on reef south east of Niuoku island in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8689888888889,
+          -9.42811111111111
+        ]
+      },
+      "properties": {
+        "id": "TVBP0371",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86974166666667,
+          -9.425377777777777
+        ]
+      },
+      "properties": {
+        "id": "TVBP0372",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87054722222223,
+          -9.422019444444445
+        ]
+      },
+      "properties": {
+        "id": "TVBP0373",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87095277777777,
+          -9.41981111111111
+        ]
+      },
+      "properties": {
+        "id": "TVBP0374",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8714361111111,
+          -9.41681111111111
+        ]
+      },
+      "properties": {
+        "id": "TVBP0375",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87175555555555,
+          -9.414922222222222
+        ]
+      },
+      "properties": {
+        "id": "TVBP0376",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8718027777778,
+          -9.414027777777779
+        ]
+      },
+      "properties": {
+        "id": "TVBP0377",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8719027777778,
+          -9.411986111111112
+        ]
+      },
+      "properties": {
+        "id": "TVBP0378",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87169166666666,
+          -9.408986111111112
+        ]
+      },
+      "properties": {
+        "id": "TVBP0379",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87141666666668,
+          -9.407377777777779
+        ]
+      },
+      "properties": {
+        "id": "TVBP0380",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87109166666667,
+          -9.406036111111112
+        ]
+      },
+      "properties": {
+        "id": "TVBP0381",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.8710138888889,
+          -9.405716666666667
+        ]
+      },
+      "properties": {
+        "id": "TVBP0382",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.87040555555555,
+          -9.403447222222223
+        ]
+      },
+      "properties": {
+        "id": "TVBP0383",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86856666666668,
+          -9.39866111111111
+        ]
+      },
+      "properties": {
+        "id": "TVBP0384",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.86525833333332,
+          -9.391633333333333
+        ]
+      },
+      "properties": {
+        "id": "TVBP0385",
+        "info": "Further most point on reef east of Niuoku island in Nukulaelae atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.84016944444446,
+          -9.351719444444445
+        ]
+      },
+      "properties": {
+        "id": "TVBP0386",
+        "info": "Further most point on reef east of Tumiloto island in Nukulaelae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.839175,
+          -9.350175
+        ]
+      },
+      "properties": {
+        "id": "TVBP0387",
+        "info": "Further most point on reef east of Tumiloto island in Nukulaelae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.17093888888888,
+          -8.43426388888889
+        ]
+      },
+      "properties": {
+        "id": "TVBP0388",
+        "info": "Further most point on reef east of Mulitefala islet in Funafuti atoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.41966666666664,
+          -7.9490944444444445
+        ]
+      },
+      "properties": {
+        "id": "TVBP0389",
+        "info": "Further most point on reef east of Niuatali islet in Nukufetau atoll"
+      }
+    }
+  ]
+}
